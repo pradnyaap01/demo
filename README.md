@@ -1,3 +1,3 @@
 # demo
 demo_repo
-Author-Pradnya
+Author-Pradnya Patil
